@@ -17,6 +17,7 @@ _mailinglist
 docs/_build/
 .vscode
 virtualenv/
+materialize-src/
 
 # Coverage reports
 htmlcov/
